@@ -5,4 +5,6 @@
 
     echo "Hello git";
     
+    echo "abcd";
+    echo "defg";
 ?>
